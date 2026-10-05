@@ -522,13 +522,9 @@ https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3
 #EXTINF:-1 group-title="Kênh địa phương Việt Nam",Hải Phòng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live-hq.evgcdn.net/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-id="NINHTHUAN" group-title="Kênh địa phương Việt Nam",KTV1 HD
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="Kênh địa phương Việt Nam", KTV1 HD - Báo và PTTH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1
-#EXTINF:-1 tvg-id="KHANHHOA" group-title="Kênh địa phương Việt Nam",KTV HD
-https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Kênh địa phương Việt Nam", KTV HD - Báo và PTTH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa
