@@ -112,8 +112,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=201
 https://vmttv.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="SCTV3" group-title="SCTV",SCTV3
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
-#EXTINF:-1 tvg-id="SCTV3-BACKUP" group-title="SCTV",SCTV3 Backup
-https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV", SCTV4
 https://vmttv.dpdns.org/VTVGo/?sctv4
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV",SCTV4
@@ -506,9 +504,9 @@ https://vmttv.dpdns.org/tv360/?id=gia-lai
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="HANOITV2" group-title="Kênh địa phương Việt Nam",HanoiTV2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="Địa phương", H1 - Báo và PTTH Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" group-title="Kênh địa phương Việt Nam", H1 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương", H2 - Báo và PTTH Hà Nội
+#EXTINF:-1 tvg-id="hanoi2" group-title="Kênh địa phương Việt Nam", H2 - Báo và PTTH Hà Nội
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh địa phương Việt Nam",Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
