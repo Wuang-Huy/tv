@@ -87,17 +87,19 @@ https://dethich.pw/htv7/index.m3u8
 https://dethich.pw/htv9/index.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=11
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=12
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống HD
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC", HTVC Phim HD
+https://freem3u.xyz/api/live/play.m3u8?vid=15
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc HD
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV", HTVC Plus HD
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC", HTVC Plus HD
+https://freem3u.xyz/api/live/play.m3u8?vid=132
 
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV", SCTV4K
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
