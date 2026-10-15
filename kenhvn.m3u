@@ -53,6 +53,17 @@ https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
 https://dethich.pw/htvthethao/index.m3u8
 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương", THVL1 - Báo và PTTH Vĩnh Long
+https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương", THVL2 - Báo và PTTH Vĩnh Long
+https://dethich.pw/thvl2/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương", THVL3 - Báo và PTTH Vĩnh Long
+https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương", THVL4 - Báo và PTTH Vĩnh Long
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương", THVL5 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
@@ -148,9 +159,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=189&token=NinoEra36
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
@@ -509,16 +517,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương", QTV3 HD - Báo và PTTH Thành Phố Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương", THVL1 - Báo và PTTH Vĩnh Long
-https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương", THVL2 - Báo và PTTH Vĩnh Long
-https://dethich.pw/thvl2/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương", THVL3 - Báo và PTTH Vĩnh Long
-https://dethich.pw/thvl3/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương", THVL4 - Báo và PTTH Vĩnh Long
-https://dethich.pw/thvl4/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương", THVL5 - Báo và PTTH Vĩnh Long
-https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương", ATV2 | Báo và PTTH An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="ninhbinh" group-title="Địa phương", NBTV - Báo và PTTH Ninh Bình
