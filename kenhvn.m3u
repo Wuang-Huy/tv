@@ -5,7 +5,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 https://freem3u.xyz/api/live/play.m3u8?vid=19
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh cơ bản", Vietnam Today
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/vietnamtoday/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh cơ bản", VTV1
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh cơ bản", VTV2
@@ -22,7 +22,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kênh cơ bản", VTV5 Tây Nguyên
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/master.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Kênh cơ bản", VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kênh cơ bản", VTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh cơ bản" catchup="default" catchup-days="2", VTV8
@@ -51,7 +51,7 @@ https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 - Báo và PTTH Thành Phố Hồ Chí Minh
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
-https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/htvthethao/index.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=13
@@ -531,13 +531,13 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương", QTV3 HD - Báo và PTTH Thành Phố Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương", THVL1 - Báo và PTTH Vĩnh Long
-https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương", THVL2 - Báo và PTTH Vĩnh Long
-https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương", THVL3 - Báo và PTTH Vĩnh Long
-https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương", THVL4 - Báo và PTTH Vĩnh Long
-https://freem3u.xyz/api/live/play.m3u8?vid=220
+https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương", THVL5 - Báo và PTTH Vĩnh Long
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương", ATV2 | Báo và PTTH An Giang
