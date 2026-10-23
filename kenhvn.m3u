@@ -238,8 +238,6 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="ducktv" group-title="Thiếu nhi",DUCK TV HD
 https://dash.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 group-title="Thiếu nhi", EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Kênh phim", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -364,6 +362,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 tvg-id="outdoor" group-title="Tài liệu & khám phá", Outdoor Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế", Arirang
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế", KBS World
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế", TV5Monde
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 
 #EXTINF:-1 group-title="Giải Trí", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -608,6 +617,58 @@ https://freem3u.xyz/api/live/play.m3u8?vid=88
 https://freem3u.xyz/api/live/play.m3u8?vid=52
 #EXTINF:-1 tvg-id="laocai" group-title="Địa phương", THLC HD - Báo và PTTH Lào Cai
 https://freem3u.xyz/api/live/play.m3u8?vid=71
+
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS+1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc", EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV5
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV5+
+https://cdn.qd.je/163189/cctv5p
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV8 
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV16
+https://cdn.qd.je/163189/cctv16
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc", CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENTS 🔴", Đèn Âm Hồn: Người Con Gái Nam Xương
 https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8
