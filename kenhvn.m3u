@@ -77,8 +77,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=15
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC", HTVC Plus HD
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 
-#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV", SCTV4K
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV", SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="SCTV2" group-title="SCTV",SCTV2
