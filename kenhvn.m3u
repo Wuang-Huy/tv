@@ -345,6 +345,8 @@ https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
 #EXTINF:-1 group-title="Giải Trí", 360 Mr.bean
 https://vmttv.dpdns.org/tv360/?id=360-mr-bean
+#EXTINF:-1 group-title="Giải Trí", 360 Doraemon
+https://vmttv.dpdns.org/tv360/?id=360-doraemon
 #EXTINF:-1 group-title="Thể Thao", 360 C1 Châu Âu
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
 #EXTINF:-1 group-title="Thể Thao", 360 C2 Châu Âu
@@ -708,3 +710,6 @@ https://a.kvp726.com/20261030/PhvUF3XB/3500kb/hls/index.m3u8
 https://rumble.com/hls-vod/h15TO_BzvGk/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴", Kế Hoạch CM12 - Tập 1
 https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴", Kế Hoạch CM12 - Tập 2
+https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS 🔴", Kế Hoạch CM12 - Tập 3
